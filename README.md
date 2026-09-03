@@ -2,25 +2,38 @@
 
 ## Overview
 
-Designed and developed a detailed CAD model and engineering drawings
-of a Lat Pulldown Machine as a mechanical design project.
+A complete CAD-based design of a Lat Pulldown Machine, including
+the assembly, individual components, and detailed engineering drawings.
 
-## Key Details
+## Project Details
 
 - Material: Stainless Steel
-- Overall Assembly Weight: 283 kg
-- Detailed part drawings with dimensions and tolerances
-- Assembly and component-level drawings
-- Manufacturing-oriented engineering drawings
+- Assembly Weight: 283 kg
+- CAD Software: SolidWorks
+- Drawing Sheets: 14
 
-## Technical Drawings
+## Contents
 
-[View Technical Drawing PDF](./drawings/Lat_Pulldown_Machine_Technical_Drawings.pdf)
+### CAD Models
+- Complete assembly model
+- Individual component models
+- Detailed part geometry
+
+### Engineering Drawings
+
+The project includes a 14-sheet technical drawing package containing
+component dimensions, tolerances, surface finish requirements, and
+manufacturing details.
+
+## Technical Drawing
+
+[View Technical Drawings](./Lat_Pulldown_Machine_Technical_Drawings.pdf)
 
 ## Skills Demonstrated
 
 - 3D CAD Modelling
-- Engineering Drawing
 - Mechanical Design
-- Dimensioning & Tolerancing
+- Assembly Modelling
+- Engineering Drawing
+- Dimensioning and Tolerancing
 - Design for Manufacturing
